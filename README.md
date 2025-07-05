@@ -1,6 +1,6 @@
-## 👋 Hello
+## 👋 Hello, my name is RADI Selma
 
-🎓 I am a **second-year Computer Science student at **Cesi Engineering School**, passionate about **full-stack development, object oriented programming and networks**.
+🎓 I am a **second-year Computer Science student at Cesi Engineering School**, passionate about **full-stack development, object oriented programming and networks**.
 
 💻 I enjoy **exploring various programming languages**, with current focus on **C++, JavaScript, and Spring Boot**. Recently, I built a fleet management module during my internship to help upgrade the company's vehicle management.
 
